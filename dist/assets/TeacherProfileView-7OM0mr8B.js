@@ -1,0 +1,1 @@
+import o from"./ProfileView-mRQs4Q5A.js";import{o as r,c as n,d as s}from"./index-FzuQ8Pql.js";const t={class:"container"},_={__name:"TeacherProfileView",setup(a){return(e,c)=>(r(),n("div",t,[s(o,{"is-owner":e.no},null,8,["is-owner"])]))}};export{_ as default};

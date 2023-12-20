@@ -1,0 +1,30 @@
+[
+{
+    "id": 1,
+    "name":"12th Grade"
+},{
+    "id": 2,
+    "name":"11th Grade"
+},{
+    "id": 3,
+    "name":"9th Grade"
+},{
+    "id": 4,
+    "name":"10th Grade"
+},{
+    "id": 5,
+    "name":"Biology"
+},{
+    "id": 6,
+    "name":"Language"
+},{
+    "id": 7,
+    "name":"Art"
+},{
+    "id": 8,
+    "name":"Geography"
+},{
+    "id": 9,
+    "name":"Animal"
+}
+]
